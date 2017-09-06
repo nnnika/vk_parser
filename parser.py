@@ -13,11 +13,11 @@ session = Session()
 
 
 API_VERSION = 5.67
-API_ID = 5594854
-ACCESS_TOKEN = 'a2b6349622445fc07cc19206fd6642629dcd10d3fe36a1a1c189f17db09c62130380f8f7bdb469d795769'
+API_ID = 'PUT API ID HERE'
+ACCESS_TOKEN = 'PUT YOUR ACCESS TOKEN HERE'
 proxies = {
-    'http': 'socks5h://localhost:1080',
-    'https': 'socks5h://localhost:1080'
+    'http': '',
+    'https': ''
 }
 
 
